@@ -5,8 +5,10 @@ Atualmente curso ADS
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanpereira&show_icons=true&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanpereira&layout=compact&theme=gruvbox"/>
-
 </div>
+
+![Charizard gif](https://user-images.githubusercontent.com/106976958/173167832-ba54a817-6abd-4332-af4b-793c7825875c.gif)
+
 
 
 ### ❤️ Let's get connected:
