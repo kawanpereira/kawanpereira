@@ -1,15 +1,11 @@
 ### Oi sou o Kawan um Mobile Developer👋
 
-Atualmente curso ADS 
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kawanpereira&show_icons=true&theme=gruvbox"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanpereira&layout=compact&theme=gruvbox"/>
   <img align="right" src="https://user-images.githubusercontent.com/106976958/173168177-d3048d83-8126-43e9-9b5f-741a564429e7.gif"/>
 </div>
-
-
-![3nRA](https://user-images.githubusercontent.com/106976958/173168177-d3048d83-8126-43e9-9b5f-741a564429e7.gif)
 
 
 ### ❤️ Let's get connected:
