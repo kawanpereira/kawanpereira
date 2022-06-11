@@ -13,6 +13,6 @@
 
 
 
-### ❤️ Let's get connected:
+### Let's get connected:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://[www.instagram.com/andressacodes/](https://www.instagram.com/ap_kawan/))
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://[www.linkedin.com/in/andressanassantos/](https://www.linkedin.com/in/kawan-pereira-1405361a2/))
