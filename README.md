@@ -10,7 +10,7 @@ Atualmente curso ADS
 </div>
 
 
-
+![3nRA](https://user-images.githubusercontent.com/106976958/173168177-d3048d83-8126-43e9-9b5f-741a564429e7.gif)
 
 
 ### ❤️ Let's get connected:
