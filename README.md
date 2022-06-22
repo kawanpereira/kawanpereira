@@ -1,7 +1,7 @@
-### Oi sou o Kawan um Mobile Developer👋
+### Oi sou o Kawan um Python Developer👋
 
 - Estudo ADS na Estácio de Sá
-- Atualmente estudando Mobile Developer
+- Atualmente estudando Python Developer
 
 
 <div>
