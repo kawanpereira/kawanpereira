@@ -1,4 +1,4 @@
-## Oiii eu sou o Kawan Pereira, estudante de programação e analista de dados!
+## Oiii eu sou o Kawan Pereira, estudante de programação e desenvolvedor mobile!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Kawan-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
